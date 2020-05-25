@@ -1,4 +1,4 @@
 # figuretest
 figuretest
 
-./img/IPv4-Header.jpg
+![IPv4 Header](./img/IPv4-Header.jpg)
